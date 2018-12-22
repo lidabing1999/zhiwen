@@ -1,0 +1,59 @@
+/* start.wxss */
+/*
+.btn1{
+  width: 60%;
+  top: 10%
+}
+
+.radio-group{
+  left: 30%;
+  top: 30%;
+  position: absolute
+}
+
+#input{
+  background-color: #e5e5e5;
+  width: 60%;
+  height: 88rpx;
+  top: 45%;
+  left: 18%;
+  position: absolute
+  }
+
+  #text{
+  color: #888888;
+  font-family:PingFangSC-Regular;
+  font-size:12px;
+  top: 55%;
+  left: 17%;
+  position: absolute
+  }
+
+  #btn3{
+  height: 88rpx;
+  top: 60%;
+  width: 60%;
+  color: white;
+  background-color: #00aea1;
+  }*/
+  .container{
+   
+    height:100vh;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:center;
+  }
+  .about-banner{
+    width:400rpx;
+    height:400rpx;
+    border-radius:45%;
+  }
+ .btn1 {
+  width: 80%;
+  margin-top: 20rpx;
+  background-color: rgb(196, 235, 180);
+  color: black;
+  border-radius: 98rpx; 
+}

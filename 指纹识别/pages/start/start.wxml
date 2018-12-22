@@ -1,0 +1,9 @@
+<!--start.wxml-->
+<view  class='container'>
+<button class='btn1' style='font-weight:bold' bindtap="validate">
+签到情况查询</button>
+
+
+<image class='about-banner' src="/images/picture.jpg"></image>
+<text>制作人：破菲克特队</text>
+</view>
